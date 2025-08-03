@@ -1,0 +1,24 @@
+---
+alwaysApply: true
+description: Project directory structure and file organization
+---
+
+# Project Structure
+
+## Directory Structure
+
+Keep `app` directory purely for routing purposes. Store all other project files in organized directories:
+
+```
+helverita/
+├── src/                 # Source code
+│   ├── app/             # Routing only
+│   ├── components/      # Shared UI components
+│   │   ├── ui/          # Basic UI components
+│   │   ├── layout/      # Layout components
+│   │   └── features/    # Domain-specific components
+│   ├── lib/             # Utilities and helpers
+│   ├── hooks/           # Custom React hooks
+│   └── types/           # TypeScript type definitions
+└── public/              # Static assets
+```

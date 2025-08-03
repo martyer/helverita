@@ -1,0 +1,17 @@
+---
+alwaysApply: true
+description: Code style guidelines including naming conventions and formatting rules
+---
+
+# Code Style
+
+## Naming Conventions
+
+- Use kebab-case for folders and files
+- Use PascalCase for React components
+- Use camelCase for functions and variables
+- Use UPPER_SNAKE_CASE for constants
+
+## Further Information
+
+For detailed code style rules including import organization, formatting, and linting rules, refer to the @eslint.config.mjs in this project.

@@ -1,0 +1,22 @@
+---
+alwaysApply: true
+description: Core principles for writing simple, pragmatic, and maintainable code
+---
+
+# Core Principles
+
+## Simplicity and Pragmatism
+
+- Write simple, pragmatic code that avoids overengineering
+- Balance simplicity with readability - avoid overly terse code at the expense of clarity
+
+## Future-Proof Architecture
+
+- Design clear abstractions and APIs that enable replacing system components
+- Consider extensibility without premature optimization
+
+## Self-Documenting Code
+
+- Use descriptive variable names, function names, and class names
+- Write code that clearly expresses its intent through naming and structure
+- Minimize comments by making the code itself readable

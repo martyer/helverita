@@ -1,0 +1,20 @@
+---
+alwaysApply: true
+description: Technology stack and tools used in the project
+---
+
+# Technology Stack
+
+## Core Framework
+
+- **Next.js** - App Router, Server Components, Turbopack for development
+- **React** - Latest React with new features and improvements
+- **TypeScript** - Static typing and enhanced developer experience
+
+## Styling and UI
+
+- **Tailwind CSS** - Utility-first CSS framework for rapid UI development
+
+## Development Tools
+
+- **ESLint** - Code linting and quality enforcement
